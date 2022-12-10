@@ -1,4 +1,4 @@
-This project does 2 things:
+<pre>This project does 2 things:
     1. Converts the database query of specified one to another specified database.
        This helps in migrating the database from existing to new.
     2. Finds if the query belongs to Apache hive, Postgres or MongoDB
@@ -9,3 +9,4 @@ This project does 2 things:
 Run api.py to do the 1st task.
 
 Run api1.py to do the 2nd task.
+</pre>

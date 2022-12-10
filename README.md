@@ -4,7 +4,7 @@
     2. Finds if the query belongs to Apache hive, Postgres or MongoDB
        This helps in detecting the correct database to run the query if an application has multiple databases.
        
-       Both the tasks are done using chatGPT language model.
+Both the tasks are done using chatGPT language model.
        
 Run api.py to do the 1st task.
 
